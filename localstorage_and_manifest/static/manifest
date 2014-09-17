@@ -1,0 +1,10 @@
+CACHE MANIFEST
+# ref {}
+
+/
+/static/jquery-1.11.1.min.js
+/static/base.js
+/static/base.css
+
+NETWORK:
+/get_data
